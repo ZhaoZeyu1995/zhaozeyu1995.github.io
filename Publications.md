@@ -8,7 +8,7 @@ layout: page
 
 * Zeyu Zhao, and Peter Bell. "Investigating Sequence-Level Normalisation For CTC-Like End-to-End ASR." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022. [pdf](https://zhaozeyu1995.github.io/pdf/Investigating_Sequence-Level_Normalisation_For_CTC-Like_End-to-End_ASR.pdf) [link](https://ieeexplore.ieee.org/abstract/document/9746821)
 
-* Zeyu Zhao, and Wei-Qiang Zhang. "End-to-End Keyword Search Based on Attention and Energy Scorer for Low Resource Languages." INTERSPEECH. 2020. [pdf](http://www.interspeech2020.org/uploadfile/pdf/Wed-2-2-9.pdf)
+* Zeyu Zhao, and Wei-Qiang Zhang. "End-to-End Keyword Search Based on Attention and Energy Scorer for Low Resource Languages." INTERSPEECH. 2020. [pdf](https://zhaozeyu1995.github.io/pdf/Wed-2-2-9.pdf) [link](https://www.isca-speech.org/archive/interspeech_2020/zhao20d_interspeech.html)
 
 * Zeyu Zhao, et al. "Jujubecake: An Extension of LSTM Considering Correlation among Input Blocks." 2020 15th IEEE International Conference on Signal Processing (ICSP). Vol. 1. IEEE, 2020. [pdf](https://zhaozeyu1995.github.io/pdf/Jujubecake_An_Extension_of_LSTM_Considering_Correlation_among_Input_Blocks.pdf) [link](https://ieeexplore.ieee.org/abstract/document/9320915)
 
