@@ -29,6 +29,7 @@ My research interest lies in Automatic Speech Recognition (ASR), especially End-
 
 Here are some publications of mine. For the whole list, please refer to [publications](https://zhaozeyu1995.github.io/publications).
 
-* Zeyu Zhao, and Peter Bell. "Investigating Sequence-Level Normalisation For CTC-Like End-to-End ASR." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022. [link](https://ieeexplore.ieee.org/abstract/document/9746821)
+* Zeyu Zhao, and Peter Bell. "Investigating Sequence-Level Normalisation For CTC-Like End-to-End ASR." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022. [pdf](https://zhaozeyu1995.github.io/pdf/Investigating_Sequence-Level_Normalisation_For_CTC-Like_End-to-End_ASR.pdf) [link](https://ieeexplore.ieee.org/abstract/document/9746821)
+
 
 * Zeyu Zhao, and Wei-Qiang Zhang. "End-to-End Keyword Search Based on Attention and Energy Scorer for Low Resource Languages." INTERSPEECH. 2020. [pdf](http://www.interspeech2020.org/uploadfile/pdf/Wed-2-2-9.pdf)
