@@ -11,7 +11,7 @@ My research interest lies in Automatic Speech Recognition (ASR), especially End-
 # Education 
 
 * PhD 
-  * September 2020 -
+  * September 2020 - Present
   * Supervised by [Dr. Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/)
   * Centre for Speech Technology Research, [CSTR](https://www.cstr.ed.ac.uk/)
   * University of Edinburgh
