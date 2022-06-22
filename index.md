@@ -6,7 +6,7 @@ title: "Home"
 # Introduction
 
 I am a PhD student in the [Centre for Speech Technology Research](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/) and [Hiroshi Shimodaira](https://homepages.inf.ed.ac.uk/hshimoda/). 
-My research interest lies in Automatic Speech Recognition (ASR), especially End-to-End ASR. For more information, here is my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf).
+My research interest lies in Automatic Speech Recognition (ASR), especially End-to-End ASR. For more information, here is my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 22 June 2022).
 
 # Education 
 
