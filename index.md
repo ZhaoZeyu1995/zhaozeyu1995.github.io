@@ -5,19 +5,19 @@ title: "Home"
 
 # Introduction
 
-I am a PhD student in the [Centre for Speech Technology Research](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/) and [Hiroshi Shimodaira](https://homepages.inf.ed.ac.uk/hshimoda/). 
-My research interest lies in Automatic Speech Recognition (ASR), especially End-to-End ASR. For more information, here is my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 1 June 2023).
+I am a PhD student in the [Centre for Speech Technology Research](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/) and [Dr Hiroshi Shimodaira](https://homepages.inf.ed.ac.uk/hshimoda/). 
+My research interest lies in **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 6 June 2023).
 
 # Education 
 
 * PhD 
   * September 2020 - Present
-  * Supervised by [Dr. Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/)
+  * Supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/)
   * Centre for Speech Technology Research, [CSTR](https://www.cstr.ed.ac.uk/)
   * University of Edinburgh
 * Master of Science
   * September 2017 - August 2020
-  * Supervised by [Dr. Wei-Qiang Zhang](https://sites.google.com/site/weiqzhang/Home)
+  * Supervised by [Dr Wei-Qiang Zhang](https://sites.google.com/site/weiqzhang/Home)
   * [Speech and Audio Technology Lab](http://web.ee.tsinghua.edu.cn/satlab/en/index.htm)
   * Tsinghua Univeristy
 * Bachelor of Science 
