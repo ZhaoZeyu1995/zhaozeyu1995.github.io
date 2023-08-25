@@ -6,7 +6,13 @@ title: "Home"
 # Introduction
 
 I am a PhD student in the [Centre for Speech Technology Research](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/) and [Dr Hiroshi Shimodaira](https://homepages.inf.ed.ac.uk/hshimoda/). 
-My research interest lies in **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 6 June 2023).
+My research interest lies in **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 25 August 2023).
+
+# Recent Work and News
+
+* I am now working on a [differentiable WFST-based ASR framework](https://github.com/ZhaoZeyu1995/Waterfall) where the topology can be changed with almost no constraint.
+
+* Just attended INTERSPEECH 2023 in Dublin, Ireland
 
 # Education 
 
@@ -29,10 +35,10 @@ My research interest lies in **Automatic Speech Recognition (ASR)**, especially 
 
 Here are some publications of mine. For the whole list, please refer to [publications](https://zhaozeyu1995.github.io/publications).
 
-* Zeyu Zhao, and Peter Bell. "Investigating Sequence-Level Normalisation For CTC-Like End-to-End ASR." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022. [pdf](https://zhaozeyu1995.github.io/pdf/Investigating_Sequence-Level_Normalisation_For_CTC-Like_End-to-End_ASR.pdf) [link](https://ieeexplore.ieee.org/abstract/document/9746821)
+* **Zeyu Zhao**, and Peter Bell. "Regarding Topology and Variant Frame Rates for Differentiable WFST-based End-to-End ASR." INTERSPEECH 2023. [pdf](https://zhaozeyu1995.github.io/pdf/interspeech2023-1.pdf) [link](https://www.isca-speech.org/archive/interspeech_2023/zhao23f_interspeech.html) [code](https://github.com/ZhaoZeyu1995/Waterfall)
 
+* **Zeyu Zhao**, and Peter Bell. "Investigating Sequence-Level Normalisation For CTC-Like End-to-End ASR." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022. [pdf](https://zhaozeyu1995.github.io/pdf/Investigating_Sequence-Level_Normalisation_For_CTC-Like_End-to-End_ASR.pdf) [link](https://ieeexplore.ieee.org/abstract/document/9746821)
 
-* Zeyu Zhao, and Wei-Qiang Zhang. "End-to-End Keyword Search Based on Attention and Energy Scorer for Low Resource Languages." INTERSPEECH. 2020. [pdf](http://www.interspeech2020.org/uploadfile/pdf/Wed-2-2-9.pdf) [link](https://www.isca-speech.org/archive/interspeech_2020/zhao20d_interspeech.html)
 
 # Personal Hobbies
 
