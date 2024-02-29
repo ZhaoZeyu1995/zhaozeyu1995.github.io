@@ -5,14 +5,13 @@ title: "Home"
 
 # Introduction
 
-I am a PhD student in the [Centre for Speech Technology Research](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/) and [Dr Hiroshi Shimodaira](https://homepages.inf.ed.ac.uk/hshimoda/). 
-My research interest lies in **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 19 January 2024).
+I am a PhD student at the [Centre for Speech Technology Research](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/). 
+My research interest lies in **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 29 February 2024).
 
 # Recent Work and News
 
-* I am now working on a [differentiable WFST-based ASR framework](https://github.com/ZhaoZeyu1995/Waterfall) where the topology can be changed with almost no constraint.
-
-* Just attended INTERSPEECH 2023 in Dublin, Ireland
+* Two papers accepted in XAI-SA Workshop ICASSP 2024. See you in South Korea!
+* I am now working on a new **differentiable WFST-based ASR toolkit** where the topology can be freely defined.
 
 # Education 
 
@@ -21,12 +20,12 @@ My research interest lies in **Automatic Speech Recognition (ASR)**, especially 
   * Supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/)
   * Centre for Speech Technology Research, [CSTR](https://www.cstr.ed.ac.uk/)
   * University of Edinburgh
-* Master of Science
+* Master
   * September 2017 - August 2020
   * Supervised by [Dr Wei-Qiang Zhang](https://sites.google.com/site/weiqzhang/Home)
   * [Speech and Audio Technology Lab](http://web.ee.tsinghua.edu.cn/satlab/en/index.htm)
   * Tsinghua Univeristy
-* Bachelor of Science 
+* Bachelor
   * September 2013 - June 2017
   * School of Information and Electronics
   * Beijing Institute of Technology
