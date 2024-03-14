@@ -35,7 +35,7 @@ f
 
 
     
-![svg](/_posts/2024-3-14/output_2_0.svg)
+![svg](https://zhaozeyu1995.github.io/_posts/2024-3-14/output_2_0.svg)
     
 
 
@@ -57,7 +57,7 @@ g = compiler.compile()
 g
 ```
     
-![svg](/_posts/2024-3-14/output_4_0.svg)
+![svg](https://zhaozeyu1995.github.io/_posts/2024-3-14/output_4_0.svg)
 
  There is something worth noting in `f` and `g`.
 First, if the input labels `f` are sorted, then the output labels of `f` cannot be in sorted state.
