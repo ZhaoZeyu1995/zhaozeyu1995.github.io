@@ -35,7 +35,7 @@ f
 
 
     
-![svg](_posts/2024-3-14/output_2_0.svg)
+![svg](/_posts/2024-3-14/output_2_0.svg)
     
 
 
@@ -57,7 +57,7 @@ g = compiler.compile()
 g
 ```
     
-![svg](_posts/2024-3-14/output_4_0.svg)
+![svg](/_posts/2024-3-14/output_4_0.svg)
 
  There is something worth noting in `f` and `g`.
 First, if the input labels `f` are sorted, then the output labels of `f` cannot be in sorted state.
@@ -84,7 +84,7 @@ fi
 
 
     
-![svg](2024-3-14/output_6_0.svg)
+![svg](/_posts/2024-3-14/output_6_0.svg)
     
 
 
@@ -98,7 +98,7 @@ fo
 
 
     
-![svg](2024-3-14/output_7_0.svg)
+![svg](/_posts/2024-3-14/output_7_0.svg)
     
 
 
@@ -112,7 +112,7 @@ gi
 
 
     
-![svg](2024-3-14/output_8_0.svg)
+![svg](/_posts/2024-3-14/output_8_0.svg)
     
 
 
@@ -126,7 +126,7 @@ go
 
 
     
-![svg](2024-3-14/output_9_0.svg)
+![svg](/_posts/2024-3-14/output_9_0.svg)
     
 
 
@@ -149,7 +149,7 @@ h
 
 
     
-![svg](2024-3-14/output_11_0.svg)
+![svg](/_posts/2024-3-14/output_11_0.svg)
     
 
 
@@ -163,7 +163,7 @@ hio
 
 
     
-![svg](2024-3-14/output_12_0.svg)
+![svg](/_posts/2024-3-14/output_12_0.svg)
     
 
 
@@ -177,7 +177,7 @@ hoi
 
 
     
-![svg](2024-3-14/output_13_0.svg)
+![svg](/_posts/2024-3-14/output_13_0.svg)
     
 
 
@@ -191,7 +191,7 @@ hii
 
 
     
-![svg](2024-3-14/output_14_0.svg)
+![svg](/_posts/2024-3-14/output_14_0.svg)
     
 
 
@@ -205,7 +205,7 @@ hoo
 
 
     
-![svg](2024-3-14/output_15_0.svg)
+![svg](/_posts/2024-3-14/output_15_0.svg)
     
 
 
@@ -218,4 +218,4 @@ hoo
 We can see that no matter how we do the `arcsort` for `f` and `g`, or even do not sort them at all, we can always do the composition without any error.
 This is different from what the official documentation described.
 
-Here is the [notebook file](2024-3-14/debug.ipynb), if you'd like to play around.
+Here is the [notebook file](/_posts/2024-3-14/debug.ipynb), if you'd like to play around.
