@@ -4,7 +4,7 @@ mathjax: true
 ---
 
 This post is about the composition operate in `openfst-python`.
-It is demanded by the (official documentation)[https://www.openfst.org/twiki/bin/view/FST/ComposeDoc] that before composition,
+It is demanded by the [official documentation](https://www.openfst.org/twiki/bin/view/FST/ComposeDoc) that before composition,
 the output labels of the first FST or the input labels of the second FST must be sorted.
 However, I find that, it seems not to be the case in the Python wrapper, `openfst-python`.
 
@@ -35,7 +35,7 @@ f
 
 
     
-![svg](https://zhaozeyu1995.github.io/_posts/2024-3-14/output_2_0.svg)
+![svg](/assets//2024-3-14/output_2_0.svg)
     
 
 
@@ -57,7 +57,7 @@ g = compiler.compile()
 g
 ```
     
-![svg](https://zhaozeyu1995.github.io/_posts/2024-3-14/output_4_0.svg)
+![svg](/assets/2024-3-14/output_4_0.svg)
 
  There is something worth noting in `f` and `g`.
 First, if the input labels `f` are sorted, then the output labels of `f` cannot be in sorted state.
