@@ -5,20 +5,20 @@ title: "Home"
 
 # Introduction
 
-I am a PhD student at the [Centre for Speech Technology Research](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/). 
-My research interest lies in **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 29 February 2024).
+I am a PhD student at the [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/). 
+My research interest lies in **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/CV.pdf) (updated 5 April 2024).
 
 # Recent Work and News
 
 * Two papers accepted in XAI-SA Workshop ICASSP 2024. See you in South Korea!
-* I am now working on a new **differentiable WFST-based ASR toolkit** where the topology can be freely defined.
+* I am now working on a new [differentiable WFST-based ASR toolkit, named **BenNevis**,](https://github.com/ZhaoZeyu1995/BenNevis) where the topology can be freely defined.
 
 # Education 
 
 * PhD 
   * September 2020 - Present
   * Supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/)
-  * Centre for Speech Technology Research, [CSTR](https://www.cstr.ed.ac.uk/)
+  * [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/)
   * University of Edinburgh
 * Master
   * September 2017 - August 2020
@@ -33,6 +33,10 @@ My research interest lies in **Automatic Speech Recognition (ASR)**, especially 
 # Selected Publications
 
 Here are some publications of mine. For the whole list, please refer to [publications](https://zhaozeyu1995.github.io/publications).
+
+* **Zeyu Zhao**, Pinzhen Chen, and Peter Bell. "Regarding Topology and Adaptability in Differentiable WFST-Based E2E ASR." XAI-SA Workshop ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-1.pdf) [code](https://github.com/ZhaoZeyu1995/Waterfall)
+
+* **Zeyu Zhao**, Peter Bell, and Ondrej Klejch. "Exploring Dominant Paths in CTC-Like ASR Models: Unraveling the Effectiveness of Viterbi Decoding." XAI-SA Workshop ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-2.pdf) [code](https://github.com/ZhaoZeyu1995/Waterfall)
 
 * **Zeyu Zhao**, and Peter Bell. "Regarding Topology and Variant Frame Rates for Differentiable WFST-based End-to-End ASR." INTERSPEECH 2023. [pdf](https://zhaozeyu1995.github.io/pdf/interspeech2023-1.pdf) [link](https://www.isca-speech.org/archive/interspeech_2023/zhao23f_interspeech.html) [code](https://github.com/ZhaoZeyu1995/Waterfall)
 

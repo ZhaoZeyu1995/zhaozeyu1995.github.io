@@ -8,6 +8,10 @@ layout: page
 
 **\* denotes equal contribution**
 
+* **Zeyu Zhao**, Pinzhen Chen, and Peter Bell. "Regarding Topology and Adaptability in Differentiable WFST-Based E2E ASR." XAI-SA Workshop ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-1.pdf) [code](https://github.com/ZhaoZeyu1995/Waterfall)
+
+* **Zeyu Zhao**, Peter Bell, and Ondrej Klejch. "Exploring Dominant Paths in CTC-Like ASR Models: Unraveling the Effectiveness of Viterbi Decoding." XAI-SA Workship ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-2.pdf) [code](https://github.com/ZhaoZeyu1995/Waterfall)
+
 * **Zeyu Zhao**, and Peter Bell. "Regarding Topology and Variant Frame Rates for Differentiable WFST-based End-to-End ASR." INTERSPEECH 2023. [pdf](https://zhaozeyu1995.github.io/pdf/interspeech2023-1.pdf) [link](https://www.isca-speech.org/archive/interspeech_2023/zhao23f_interspeech.html) [code](https://github.com/ZhaoZeyu1995/Waterfall)
 
 * Yuanchao Li<sup>\*</sup>, **Zeyu Zhao**<sup>\*</sup>, Ondrej Klejch, Peter Bell, and Catherine Lai. "ASR and Emotional Speech: A Word-Level Investigation of the Mutual Impact of Speech and Emotion Recognition" INTERSPEECH 2023. [pdf](https://zhaozeyu1995.github.io/pdf/interspeech2023-2.pdf) [link](https://www.isca-speech.org/archive/interspeech_2023/li23ea_interspeech.html)
