@@ -8,6 +8,8 @@ layout: page
 
 **\* denotes equal contribution**
 
+* **Zeyu Zhao**, and Peter Bell. "Advancing CTC Models For Better Speech Alignment: A Topological Approach." IEEE Spoken Language Technology (SLT) Workshop 2024 (accepted). [pdf](https://zhaozeyu1995.github.io/pdf/slt2024.pdf) [code](https://github.com/ZhaoZeyu1995/BenNevis)
+
 * **Zeyu Zhao**, Pinzhen Chen, and Peter Bell. "Regarding Topology and Adaptability in Differentiable WFST-Based E2E ASR." XAI-SA Workshop ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-1.pdf) [code](https://github.com/ZhaoZeyu1995/Waterfall)
 
 * **Zeyu Zhao**, Peter Bell, and Ondrej Klejch. "Exploring Dominant Paths in CTC-Like ASR Models: Unraveling the Effectiveness of Viterbi Decoding." XAI-SA Workship ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-2.pdf) [code](https://github.com/ZhaoZeyu1995/Waterfall)

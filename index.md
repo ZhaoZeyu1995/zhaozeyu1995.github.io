@@ -6,12 +6,13 @@ title: "Home"
 # Introduction
 
 I am a PhD student at the [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/). 
-My research interest lies in **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 8 April 2024).
+My research interest lies in **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 30 August 2024).
 I am also a contributor of [SpeechBrain](https://speechbrain.github.io/).
 
 # Recent Work and News
 
-* Two papers accepted in XAI-SA Workshop ICASSP 2024. See you in South Korea!
+* One paper accepted in IEEE SLT Workshop 2024. See you in Macau!
+* I will have submitted my PhD thesis by the end of August and start to work at Swansea University as a Research Officer in September.
 * I am now working on a new [differentiable WFST-based ASR toolkit, named **BenNevis**,](https://github.com/ZhaoZeyu1995/BenNevis) where the topology can be freely defined.
 
 # Education 
@@ -34,6 +35,8 @@ I am also a contributor of [SpeechBrain](https://speechbrain.github.io/).
 # Selected Publications
 
 Here are some publications of mine. For the whole list, please refer to [publications](https://zhaozeyu1995.github.io/publications).
+
+* **Zeyu Zhao**, and Peter Bell. "Advancing CTC Models For Better Speech Alignment: A Topological Approach." IEEE Spoken Language Technology (SLT) Workshop 2024 (accepted). [pdf](https://zhaozeyu1995.github.io/pdf/slt2024.pdf) [code](https://github.com/ZhaoZeyu1995/BenNevis)
 
 * **Zeyu Zhao**, Pinzhen Chen, and Peter Bell. "Regarding Topology and Adaptability in Differentiable WFST-Based E2E ASR." XAI-SA Workshop ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-1.pdf) [code](https://github.com/ZhaoZeyu1995/Waterfall)
 
