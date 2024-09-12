@@ -10,9 +10,9 @@ layout: page
 
 * **Zeyu Zhao**, and Peter Bell. "Advancing CTC Models For Better Speech Alignment: A Topological Approach." IEEE Spoken Language Technology (SLT) Workshop 2024 (accepted). [pdf](https://zhaozeyu1995.github.io/pdf/slt2024.pdf) [code](https://github.com/ZhaoZeyu1995/BenNevis)
 
-* **Zeyu Zhao**, Pinzhen Chen, and Peter Bell. "Regarding Topology and Adaptability in Differentiable WFST-Based E2E ASR." XAI-SA Workshop ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-1.pdf) [code](https://github.com/ZhaoZeyu1995/Waterfall)
+* **Zeyu Zhao**, Pinzhen Chen, and Peter Bell. "Regarding Topology and Adaptability in Differentiable WFST-Based E2E ASR." XAI-SA Workshop ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-1.pdf) [link](https://ieeexplore.ieee.org/document/10669902?source=AUTHORALERT&dld=Z21haWwuY29t) [code](https://github.com/ZhaoZeyu1995/Waterfall)
 
-* **Zeyu Zhao**, Peter Bell, and Ondrej Klejch. "Exploring Dominant Paths in CTC-Like ASR Models: Unraveling the Effectiveness of Viterbi Decoding." XAI-SA Workship ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-2.pdf) [code](https://github.com/ZhaoZeyu1995/Waterfall)
+* **Zeyu Zhao**, Peter Bell, and Ondrej Klejch. "Exploring Dominant Paths in CTC-Like ASR Models: Unraveling the Effectiveness of Viterbi Decoding." XAI-SA Workship ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-2.pdf) [link](https://ieeexplore.ieee.org/document/10669906?source=AUTHORALERT&dld=Z21haWwuY29t) [code](https://github.com/ZhaoZeyu1995/Waterfall)
 
 * **Zeyu Zhao**, and Peter Bell. "Regarding Topology and Variant Frame Rates for Differentiable WFST-based End-to-End ASR." INTERSPEECH 2023. [pdf](https://zhaozeyu1995.github.io/pdf/interspeech2023-1.pdf) [link](https://www.isca-speech.org/archive/interspeech_2023/zhao23f_interspeech.html) [code](https://github.com/ZhaoZeyu1995/Waterfall)
 
