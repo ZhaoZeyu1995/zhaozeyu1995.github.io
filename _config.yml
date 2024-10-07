@@ -1,6 +1,6 @@
 title: "Zeyu Zhao (Jarvis) 赵泽宇"
 author: "Zeyu Zhao (Jarvis)"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Zeyu's Personal Website"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:zeyuhongwu1995@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ZhaoZeyu1995"}
-  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=21mEZDMAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
