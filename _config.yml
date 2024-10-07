@@ -24,7 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:zeyuhongwu1995@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ZhaoZeyu1995"}
   - {title: GoogleScholar, icon: airbnb, url: "https://scholar.google.com/citations?user=21mEZDMAAAAJ&hl=en"}
-  - {title: GoogleScholar, icon: github, url: "https://scholar.google.com/citations?user=21mEZDMAAAAJ&hl=en"}
+  - {title: GoogleScholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=21mEZDMAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
