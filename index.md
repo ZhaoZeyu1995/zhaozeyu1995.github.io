@@ -16,9 +16,9 @@ Here are some external links about myself
 
 # Recent Work and News
 
-* One paper accepted in IEEE SLT Workshop 2024. See you in Macau!
-* I will have submitted my PhD thesis by the end of August and start to work at Swansea University as a Research Officer in September.
-* I am now working on a new [differentiable WFST-based ASR toolkit, named **BenNevis**,](https://github.com/ZhaoZeyu1995/BenNevis) where the topology can be freely defined.
+* (August 2024) One paper accepted in IEEE SLT Workshop 2024. See you in Macau!
+* (August 2024) I submitted my PhD thesis in August and will start to work at Swansea University as a Research Officer in September.
+* (March 2024) I am now working on a new [differentiable WFST-based ASR toolkit, named **BenNevis**,](https://github.com/ZhaoZeyu1995/BenNevis) where the topology can be freely defined.
 
 # Education 
 
