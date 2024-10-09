@@ -9,6 +9,11 @@ I am a PhD student at the [Centre for Speech Technology Research (CSTR)](https:/
 My research interest lies in **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 30 August 2024).
 I am also a contributor of [SpeechBrain](https://speechbrain.github.io/).
 
+Here are some external links about myself
+* [Github](https://github.com/ZhaoZeyu1995)
+* [Google Scholar](https://scholar.google.com/citations?user=21mEZDMAAAAJ&hl=en)
+* [LinkedIn](https://www.linkedin.com/in/zeyu-zhao-163a36101/).
+
 # Recent Work and News
 
 * One paper accepted in IEEE SLT Workshop 2024. See you in Macau!
