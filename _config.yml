@@ -24,7 +24,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:zeyuhongwu1995@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ZhaoZeyu1995"}
   - {title: GoogleScholar, icon: google-plus-square, url: "https://scholar.google.com/citations?user=21mEZDMAAAAJ&hl=en"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/zeyu-zhao-163a36101/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
