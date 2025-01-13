@@ -8,6 +8,8 @@ layout: page
 
 **\* denotes equal contribution**
 
+* **Zeyu Zhao**, and Peter Bell. "Regarding the Existence of the Internal Language Model in CTC-Based E2E ASR" ICASSP 2025 (accepted). [pdf](https://zhaozeyu1995.github.io/pdf/icassp2025.pdf) [code](https://github.com/ZhaoZeyu1995/BenNevis)
+
 * **Zeyu Zhao**, and Peter Bell. "Advancing CTC Models For Better Speech Alignment: A Topological Approach." IEEE Spoken Language Technology (SLT) Workshop 2024 (accepted). [pdf](https://zhaozeyu1995.github.io/pdf/slt2024.pdf) [code](https://github.com/ZhaoZeyu1995/BenNevis)
 
 * **Zeyu Zhao**, Pinzhen Chen, and Peter Bell. "Regarding Topology and Adaptability in Differentiable WFST-Based E2E ASR." XAI-SA Workshop ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-1.pdf) [link](https://ieeexplore.ieee.org/document/10669902?source=AUTHORALERT&dld=Z21haWwuY29t) [code](https://github.com/ZhaoZeyu1995/Waterfall)
@@ -18,7 +20,7 @@ layout: page
 
 * Yuanchao Li<sup>\*</sup>, **Zeyu Zhao**<sup>\*</sup>, Ondrej Klejch, Peter Bell, and Catherine Lai. "ASR and Emotional Speech: A Word-Level Investigation of the Mutual Impact of Speech and Emotion Recognition" INTERSPEECH 2023. [pdf](https://zhaozeyu1995.github.io/pdf/interspeech2023-2.pdf) [link](https://www.isca-speech.org/archive/interspeech_2023/li23ea_interspeech.html)
 
-* **Zeyu Zhao**, and Peter Bell. "Investigating Sequence-Level Normalisation For CTC-Like End-to-End ASR." ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022. [pdf](https://zhaozeyu1995.github.io/pdf/Investigating_Sequence-Level_Normalisation_For_CTC-Like_End-to-End_ASR.pdf) [link](https://ieeexplore.ieee.org/abstract/document/9746821)
+* **Zeyu Zhao**, and Peter Bell. "Investigating Sequence-Level Normalisation For CTC-Like End-to-End ASR." ICASSP 2022. [pdf](https://zhaozeyu1995.github.io/pdf/Investigating_Sequence-Level_Normalisation_For_CTC-Like_End-to-End_ASR.pdf) [link](https://ieeexplore.ieee.org/abstract/document/9746821)
 
 * **Zeyu Zhao**, and Wei-Qiang Zhang. "End-to-End Keyword Search Based on Attention and Energy Scorer for Low Resource Languages." INTERSPEECH. 2020. [pdf](https://zhaozeyu1995.github.io/pdf/Wed-2-2-9.pdf) [link](https://www.isca-speech.org/archive/interspeech_2020/zhao20d_interspeech.html)
 
