@@ -16,6 +16,7 @@ Here are some external links about myself
 
 # Recent Work and News
 
+* (December 2024) One paper accepted in IEEE ICASSP 2025. See you in Hyderabad, India!
 * (August 2024) One paper accepted in IEEE SLT Workshop 2024. See you in Macau!
 * (August 2024) I submitted my PhD thesis in August and will start to work at Swansea University as a Research Officer in September.
 * (March 2024) I am now working on a new [differentiable WFST-based ASR toolkit, named **BenNevis**,](https://github.com/ZhaoZeyu1995/BenNevis) where the topology can be freely defined.
