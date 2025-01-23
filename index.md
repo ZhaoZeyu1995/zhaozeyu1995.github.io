@@ -6,7 +6,7 @@ title: "Home"
 # Introduction
 
 I am a PhD student at the [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/). 
-My research interest lies in **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 13 Jan 2025).
+My research interest lies in **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 23 Jan 2025).
 I am also a contributor of [SpeechBrain](https://speechbrain.github.io/).
 Currently, I am a Research Officer at Swansea University working on Generative and Interactive AI.
 
@@ -43,17 +43,17 @@ Here are some external links about myself
 
 Here are some publications of mine. For the whole list, please refer to [publications](https://zhaozeyu1995.github.io/publications).
 
-* **Zeyu Zhao**, and Peter Bell. "Regarding the Existence of the Internal Language Model in CTC-Based E2E ASR" ICASSP 2025 (accepted). [pdf](https://zhaozeyu1995.github.io/pdf/icassp2025.pdf) [code](https://github.com/ZhaoZeyu1995/BenNevis)
+* **Zeyu Zhao** and Peter Bell, *Regarding the Existence of the Internal Language Model in CTC-Based E2E ASR*, ICASSP 2025 (accepted). [pdf](https://zhaozeyu1995.github.io/pdf/icassp2025.pdf) [code](https://github.com/ZhaoZeyu1995/BenNevis)
 
-* **Zeyu Zhao**, and Peter Bell. "Advancing CTC Models For Better Speech Alignment: A Topological Approach." IEEE Spoken Language Technology (SLT) Workshop 2024 (accepted). [pdf](https://zhaozeyu1995.github.io/pdf/slt2024.pdf) [code](https://github.com/ZhaoZeyu1995/BenNevis)
+* **Zeyu Zhao** and Peter Bell, *Advancing CTC Models For Better Speech Alignment: A Topological Approach*, SLT 2024. [pdf](https://zhaozeyu1995.github.io/pdf/slt2024.pdf) [link](https://ieeexplore.ieee.org/document/10832327) [code](https://github.com/ZhaoZeyu1995/BenNevis)
 
-* **Zeyu Zhao**, Pinzhen Chen, and Peter Bell. "Regarding Topology and Adaptability in Differentiable WFST-Based E2E ASR." XAI-SA Workshop ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-1.pdf) [link](https://ieeexplore.ieee.org/document/10669902?source=AUTHORALERT&dld=Z21haWwuY29t) [code](https://github.com/ZhaoZeyu1995/Waterfall)
+* **Zeyu Zhao**, Pinzhen Chen and Peter Bell, *Regarding Topology and Adaptability in Differentiable WFST-Based E2E ASR*, ICASSP 2024 XAI-SA Workshop. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-1.pdf) [link](https://ieeexplore.ieee.org/document/10669902?source=AUTHORALERT&dld=Z21haWwuY29t) [code](https://github.com/ZhaoZeyu1995/Waterfall)
 
-* **Zeyu Zhao**, Peter Bell, and Ondrej Klejch. "Exploring Dominant Paths in CTC-Like ASR Models: Unraveling the Effectiveness of Viterbi Decoding." XAI-SA Workshop ICASSP 2024. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-2.pdf) [link](https://ieeexplore.ieee.org/document/10669906?source=AUTHORALERT&dld=Z21haWwuY29t) [code](https://github.com/ZhaoZeyu1995/Waterfall)
+* **Zeyu Zhao**, Peter Bell and Ondrej Klejch, *Exploring Dominant Paths in CTC-Like ASR Models: Unraveling the Effectiveness of Viterbi Decoding*, ICASSP 2024 XAI-SA Workshop. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-2.pdf) [link](https://ieeexplore.ieee.org/document/10669906?source=AUTHORALERT&dld=Z21haWwuY29t) [code](https://github.com/ZhaoZeyu1995/Waterfall)
 
-* **Zeyu Zhao**, and Peter Bell. "Regarding Topology and Variant Frame Rates for Differentiable WFST-based End-to-End ASR." INTERSPEECH 2023. [pdf](https://zhaozeyu1995.github.io/pdf/interspeech2023-1.pdf) [link](https://www.isca-speech.org/archive/interspeech_2023/zhao23f_interspeech.html) [code](https://github.com/ZhaoZeyu1995/Waterfall)
+* **Zeyu Zhao** and Peter Bell, *Regarding Topology and Variant Frame Rates for Differentiable WFST-based End-to-End ASR*, Interspeech 2023. [pdf](https://zhaozeyu1995.github.io/pdf/interspeech2023-1.pdf) [link](https://www.isca-speech.org/archive/interspeech_2023/zhao23f_interspeech.html) [code](https://github.com/ZhaoZeyu1995/Waterfall)
 
-* **Zeyu Zhao**, and Peter Bell. "Investigating Sequence-Level Normalisation For CTC-Like End-to-End ASR." ICASSP 2022. [pdf](https://zhaozeyu1995.github.io/pdf/Investigating_Sequence-Level_Normalisation_For_CTC-Like_End-to-End_ASR.pdf) [link](https://ieeexplore.ieee.org/abstract/document/9746821)
+* **Zeyu Zhao** and Peter Bell, *Investigating Sequence-Level Normalisation For CTC-Like End-to-End ASR*, ICASSP 2022. [pdf](https://zhaozeyu1995.github.io/pdf/Investigating_Sequence-Level_Normalisation_For_CTC-Like_End-to-End_ASR.pdf) [link](https://ieeexplore.ieee.org/abstract/document/9746821)
 
 
 # Personal Hobbies
