@@ -47,9 +47,9 @@ Here are some publications of mine. For the whole list, please refer to [publica
 
 * **Zeyu Zhao** and Peter Bell, *Advancing CTC Models For Better Speech Alignment: A Topological Approach*, SLT 2024. [pdf](https://zhaozeyu1995.github.io/pdf/slt2024.pdf) [link](https://ieeexplore.ieee.org/document/10832327) [code](https://github.com/ZhaoZeyu1995/BenNevis)
 
-* **Zeyu Zhao**, Pinzhen Chen and Peter Bell, *Regarding Topology and Adaptability in Differentiable WFST-Based E2E ASR*, ICASSP 2024 XAI-SA Workshop. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-1.pdf) [link](https://ieeexplore.ieee.org/document/10669902?source=AUTHORALERT&dld=Z21haWwuY29t) [code](https://github.com/ZhaoZeyu1995/Waterfall)
+* **Zeyu Zhao**, Pinzhen Chen and Peter Bell, *Regarding Topology and Adaptability in Differentiable WFST-Based E2E ASR*, ICASSP 2024 XAI-SA Workshop. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-1.pdf) [link](https://ieeexplore.ieee.org/document/10669902?source=AUTHORALERT&dld=Z21haWwuY29t) [code](https://github.com/ZhaoZeyu1995/Waterfall) [video](https://www.youtube.com/watch?v=Hbp9fJebnjI&t=7s&ab_channel=XAI-SAWorkshop)
 
-* **Zeyu Zhao**, Peter Bell and Ondrej Klejch, *Exploring Dominant Paths in CTC-Like ASR Models: Unraveling the Effectiveness of Viterbi Decoding*, ICASSP 2024 XAI-SA Workshop. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-2.pdf) [link](https://ieeexplore.ieee.org/document/10669906?source=AUTHORALERT&dld=Z21haWwuY29t) [code](https://github.com/ZhaoZeyu1995/Waterfall)
+* **Zeyu Zhao**, Peter Bell and Ondrej Klejch, *Exploring Dominant Paths in CTC-Like ASR Models: Unraveling the Effectiveness of Viterbi Decoding*, ICASSP 2024 XAI-SA Workshop. [pdf](https://zhaozeyu1995.github.io/pdf/icassp2024-2.pdf) [link](https://ieeexplore.ieee.org/document/10669906?source=AUTHORALERT&dld=Z21haWwuY29t) [code](https://github.com/ZhaoZeyu1995/Waterfall) [video](https://www.youtube.com/watch?v=m9q6kh7YrlE&t=31s&ab_channel=XAI-SAWorkshop)
 
 * **Zeyu Zhao** and Peter Bell, *Regarding Topology and Variant Frame Rates for Differentiable WFST-based End-to-End ASR*, Interspeech 2023. [pdf](https://zhaozeyu1995.github.io/pdf/interspeech2023-1.pdf) [link](https://www.isca-speech.org/archive/interspeech_2023/zhao23f_interspeech.html) [code](https://github.com/ZhaoZeyu1995/Waterfall)
 
