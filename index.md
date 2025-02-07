@@ -10,7 +10,6 @@ My research interest lies in **Automatic Speech Recognition (ASR)**, especially 
 I am also a contributor of [SpeechBrain](https://speechbrain.github.io/).
 Currently, I am a Research Officer at Swansea University working on Generative and Interactive AI.
 
-Here are some external links about myself
 * [Github](https://github.com/ZhaoZeyu1995)
 * [Google Scholar](https://scholar.google.com/citations?user=21mEZDMAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/zeyu-zhao-163a36101/)
