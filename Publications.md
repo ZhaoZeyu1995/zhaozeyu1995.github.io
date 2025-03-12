@@ -8,7 +8,9 @@ layout: page
 
 **\* denotes equal contribution**
 
-* **Zeyu Zhao** and Peter Bell, *Regarding the Existence of the Internal Language Model in CTC-Based E2E ASR*, ICASSP 2025 (accepted). [pdf](https://zhaozeyu1995.github.io/pdf/icassp2025.pdf) [code](https://github.com/ZhaoZeyu1995/BenNevis)
+* **Zeyu Zhao** and Peter Bell, *Regarding the Existence of the Internal Language Model in CTC-Based E2E ASR*, ICASSP 2025. [link](https://ieeexplore.ieee.org/document/10889577) [pdf](https://zhaozeyu1995.github.io/pdf/icassp2025.pdf) [code](https://github.com/ZhaoZeyu1995/BenNevis)
+
+* Yujia Sun, **Zeyu Zhao**, Korin Richmond, and Yuanchao Li, *Exploring Acoustic Similarity in Emotional Speech and Music via Self-Supervised Representations*, ICASSP 2025. [link](https://ieeexplore.ieee.org/document/10890304)
 
 * **Zeyu Zhao** and Peter Bell, *Advancing CTC Models For Better Speech Alignment: A Topological Approach*, SLT 2024. [pdf](https://zhaozeyu1995.github.io/pdf/slt2024.pdf) [link](https://ieeexplore.ieee.org/document/10832327) [code](https://github.com/ZhaoZeyu1995/BenNevis)
 
