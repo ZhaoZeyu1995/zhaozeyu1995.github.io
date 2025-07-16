@@ -5,8 +5,8 @@ title: "Home"
 
 # Introduction
 
-I am a PhD student at the [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/). 
-My research interest lies in **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 19 May 2025).
+I recently finished my PhD at the [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/). 
+My research interest lies in **Speech Technology**, including **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**, and **Text-to-Speech (TTS)**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 19 May 2025).
 I am also a contributor of [SpeechBrain](https://speechbrain.github.io/).
 Currently, I am a Research Officer, a postdoc, at Swansea University working on Generative and Interactive AI.
 
