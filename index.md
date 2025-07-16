@@ -24,7 +24,7 @@ Currently, I am a Research Officer, a postdoc, at Swansea University working on 
 # Education 
 
 * PhD 
-  * September 2020 - Present
+  * September 2020 - July 2025
   * Supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/)
   * [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/)
   * University of Edinburgh
