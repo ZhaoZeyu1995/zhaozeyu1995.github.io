@@ -5,10 +5,11 @@ title: "Home"
 
 # Introduction
 
-I recently finished my PhD at the [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/). 
-My research interest lies in **Speech Technology**, including **Automatic Speech Recognition (ASR)**, especially **End-to-End ASR**, and **Text-to-Speech (TTS)**. For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 2 August 2025).
+I obtained my PhD at the [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/), School of Informatics, the University of Edinburgh, supervised by [Prof. Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/). 
+My research interest lies in **Speech Technology**, including **Automatic Speech Recognition (ASR)**, especially **End-to-End (E2E) ASR**, and **Text-to-Speech (TTS)**.
+For more information, please refer to my [CV](https://zhaozeyu1995.github.io/pdf/cv.pdf) (updated 9 Jan 2026).
 I am also a contributor of [SpeechBrain](https://speechbrain.github.io/).
-Currently, I am a Research Officer, a postdoc, at Swansea University working on Generative and Interactive AI.
+Currently, I am a Machine Learning Engineer at Speechmatics, working on ASR and other speech technology.
 
 * [Github](https://github.com/ZhaoZeyu1995)
 * [Google Scholar](https://scholar.google.com/citations?user=21mEZDMAAAAJ&hl=en)
@@ -16,6 +17,7 @@ Currently, I am a Research Officer, a postdoc, at Swansea University working on 
 
 # Recent Work and News
 
+* (January 2026) I have joined Speechmatics as a Machine Learning Engineer.
 * (December 2024) One paper accepted in IEEE ICASSP 2025. See you in Hyderabad, India!
 * (August 2024) One paper accepted in IEEE SLT Workshop 2024. See you in Macau!
 * (August 2024) I submitted my PhD thesis in August and will start to work at Swansea University as a Research Officer in September.
@@ -25,18 +27,29 @@ Currently, I am a Research Officer, a postdoc, at Swansea University working on 
 
 * PhD 
   * September 2020 - July 2025
-  * Supervised by [Prof Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/)
+  * Supervised by [Prof. Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/)
   * [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk/)
   * University of Edinburgh
 * Master
   * September 2017 - August 2020
-  * Supervised by [Dr Wei-Qiang Zhang](http://web.ee.tsinghua.edu.cn/wqzhang/en/index.htm)
+  * Supervised by [Dr. Wei-Qiang Zhang](http://web.ee.tsinghua.edu.cn/wqzhang/en/index.htm)
   * [Speech and Audio Technology Lab](http://web.ee.tsinghua.edu.cn/satlab/en/index.htm)
   * Tsinghua Univeristy
 * Bachelor
   * September 2013 - June 2017
   * School of Information and Electronics
   * Beijing Institute of Technology
+
+# Experience
+
+* Machine Learning Engineer
+    * January 2026 - Present
+    * Speechmatics
+    * London, England
+* Research Officer (postdoc)
+    * September 2024 - December 2025
+    * Swansea University, Supervisor: [Prof. Matt Jones](https://www-csmatt-h7me.azurewebsites.net/)
+    * Swansea, Wales
 
 # Selected Publications
 
