@@ -287,9 +287,44 @@
   body{
     overflow-x:hidden;
   }
+  .music-toggle{
+    position:fixed;
+    top:14px;
+    right:14px;
+    z-index:100;
+    width:42px;
+    height:42px;
+    border-radius:50%;
+    background:var(--paper);
+    border:1px solid var(--rule);
+    box-shadow:0 2px 8px rgba(70,53,38,0.2);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    cursor:pointer;
+  }
+  .music-toggle svg{
+    width:18px;
+    height:18px;
+    fill:var(--value-brown);
+  }
+  .music-toggle.playing svg .note-bar{
+    animation:music-pulse 1.1s ease-in-out infinite;
+    transform-origin:bottom;
+  }
+  @keyframes music-pulse{
+    0%,100%{ transform:scaleY(1); }
+    50%{ transform:scaleY(0.55); }
+  }
 </style>
 </head>
 <body>
+<div class="music-toggle" id="musicToggle" role="button" aria-label="播放/暂停背景音乐">
+  <svg viewBox="0 0 24 24" id="musicIcon">
+    <path class="note-bar" d="M9 3v10.55A4 4 0 1 0 11 17V7h6V3H9z"/>
+  </svg>
+</div>
+<audio id="bgmAudio" src="bgm.mp3" loop preload="auto"></audio>
 <div class="page">
 
   <p class="hint-top">- 请翻阅至页面底部填写您的宾客信息 -</p>
@@ -384,6 +419,47 @@
     fit();
     window.addEventListener('resize', fit);
     window.addEventListener('orientationchange', fit);
+  })();
+
+  (function(){
+    var audio = document.getElementById('bgmAudio');
+    var toggle = document.getElementById('musicToggle');
+
+    function setPlayingState(isPlaying){
+      if(isPlaying){ toggle.classList.add('playing'); }
+      else{ toggle.classList.remove('playing'); }
+    }
+
+    function tryAutoplay(){
+      var p = audio.play();
+      if(p && p.catch){
+        p.then(function(){ setPlayingState(true); })
+         .catch(function(){
+            // 浏览器阻止了自动播放，等待用户第一次点击/触摸页面后再播放
+            var startOnce = function(){
+              audio.play().then(function(){ setPlayingState(true); }).catch(function(){});
+              document.removeEventListener('touchstart', startOnce);
+              document.removeEventListener('click', startOnce);
+            };
+            document.addEventListener('touchstart', startOnce, {once:true});
+            document.addEventListener('click', startOnce, {once:true});
+         });
+      }
+    }
+
+    toggle.addEventListener('click', function(){
+      if(audio.paused){
+        audio.play().then(function(){ setPlayingState(true); }).catch(function(){});
+      } else {
+        audio.pause();
+        setPlayingState(false);
+      }
+    });
+
+    audio.addEventListener('play', function(){ setPlayingState(true); });
+    audio.addEventListener('pause', function(){ setPlayingState(false); });
+
+    tryAutoplay();
   })();
 </script>
 
