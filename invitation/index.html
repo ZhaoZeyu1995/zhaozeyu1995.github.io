@@ -146,7 +146,7 @@
     min-width:0;   /* 允许文字列收缩，避免把图片挤出去 */
   }
   .info-block .date-text{
-    font-size:17.5px;
+    font-size:16px;
     font-weight:600;
     line-height:var(--lh-a);
     color:var(--value-brown);
@@ -241,7 +241,8 @@
     margin:0 0 4px;
   }
   .map-card .map-addr{
-    font-size:11px;
+    /* 随卡片宽度缩放，保证「黄河北大街78号3门三台子地铁C口前」始终占一行 */
+    font-size:clamp(7.5px, 2.4vw, 11px);
     font-weight:500;
     color:var(--label-brown);
     line-height:1.4;
@@ -425,14 +426,15 @@
     </a>
   </div>
 
-  <p class="transport">着装建议：浅色系为宜（白/米/卡其/淡蓝/淡绿等）<br>避免高饱和色（红/橘/深绿/深蓝等）与复杂花纹</p>
+  <p class="transport">着装建议：浅色系为宜（白/米/卡其/淡粉/淡蓝/淡绿等）<br>避免高饱和色（红/橘/深绿/深蓝等）与复杂花纹</p>
 
   <div class="color-swatches">
     <span class="swatch" style="background:#ffffff;"></span>
-    <span class="swatch" style="background:#f0e6d2;"></span>
-    <span class="swatch" style="background:#c8b992;"></span>
-    <span class="swatch" style="background:#b9d3e0;"></span>
-    <span class="swatch" style="background:#c3d9b8;"></span>
+    <span class="swatch" style="background:#ece4d6;"></span>
+    <span class="swatch" style="background:#c0b59a;"></span>
+    <span class="swatch" style="background:#e2d0cd;"></span>
+    <span class="swatch" style="background:#bfd1da;"></span>
+    <span class="swatch" style="background:#c5d4bd;"></span>
   </div>
 
   <div class="divider"><span class="line"></span><span class="dot"></span><span class="line"></span></div>
