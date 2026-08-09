@@ -3,7 +3,25 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title>婚礼邀请函</title>
+<title>赵泽宇 & 匡瑛 婚礼邀请函</title>
+<meta name="description" content="2026.9.19 星期六（农历丙午年八月初九）· 沈阳 · 这是一场以婚礼为名的聚会，期待您与我们相聚如初。">
+
+<!-- 分享卡片（微信 / 其他社交平台）。og:image 必须是绝对地址，微信爬虫无法读取 data: URI -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="赵泽宇 & 匡瑛 婚礼邀请函">
+<meta property="og:title" content="赵泽宇 & 匡瑛 婚礼邀请函">
+<meta property="og:description" content="2026.9.19 星期六 · 沈阳 · 期待您与我们相聚如初">
+<meta property="og:url" content="https://zhaozeyu1995.github.io/invitation/">
+<meta property="og:image" content="https://zhaozeyu1995.github.io/invitation/share-card.jpg">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="600">
+<meta itemprop="image" content="https://zhaozeyu1995.github.io/invitation/share-card.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://zhaozeyu1995.github.io/invitation/share-card.jpg">
+
+<link rel="icon" href="share-card.jpg">
+<link rel="apple-touch-icon" href="share-card.jpg">
+
 <link rel="preconnect" href="https://fonts.googleapis.cn">
 <link rel="preconnect" href="https://fonts.gstatic.cn" crossorigin>
 <link href="https://fonts.googleapis.cn/css2?family=Noto+Serif+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -304,6 +322,13 @@
   body{
     overflow-x:hidden;
   }
+  .share-thumb{
+    position:absolute;
+    left:-9999px;
+    top:0;
+    width:300px;
+    height:300px;
+  }
   .music-toggle{
     position:fixed;
     top:14px;
@@ -355,6 +380,9 @@
 </style>
 </head>
 <body>
+<!-- 供微信等爬虫抓取分享缩略图：页内其余图片均为 base64 data URI，爬虫无法取用。
+     置于屏幕外而非 display:none，以确保它仍会被渲染和抓取。 -->
+<img class="share-thumb" src="share-card.jpg" width="300" height="300" alt="赵泽宇 & 匡瑛 婚礼邀请函">
 <div class="music-toggle" id="musicToggle" role="button" aria-label="播放/暂停背景音乐">
   <svg viewBox="0 0 24 24" id="musicIcon">
     <path class="note-bar" d="M9 3v10.55A4 4 0 1 0 11 17V7h6V3H9z"/>
