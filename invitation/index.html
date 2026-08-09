@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>婚礼邀请函</title>
 <link rel="preconnect" href="https://fonts.googleapis.cn">
 <link rel="preconnect" href="https://fonts.gstatic.cn" crossorigin>
@@ -18,11 +18,15 @@
     --value-brown:#5f4e38;  /* 小标题下方文字，比小标题稍深的棕色 */
     --frame:#17323c;       /* 深青色，照片边框 */
     --rule:#b3a487;        /* 分隔线颜色 */
+    --gap-section:62px;  /* 四个区块之间的统一间距 */
     --lh-a:1.3;             /* 统一的收紧行间距 */
   }
 
   *{box-sizing:border-box;}
   html,body{margin:0;padding:0;}
+  /* 禁止 iOS 横屏/自动放大正文，避免各机型字号不一致 */
+  html{ -webkit-text-size-adjust:100%; text-size-adjust:100%; }
+  img{ max-width:100%; }
 
   body{
     font-family:'Noto Serif SC','STSong','SimSun',serif;
@@ -41,9 +45,10 @@
   }
 
   .page{
-    width:520px;
+    width:100%;
+    max-width:520px;
     margin:0 auto;
-    padding:36px 30px 60px;
+    padding:36px 24px 60px;
     text-align:center;
   }
 
@@ -60,7 +65,7 @@
     display:flex;
     align-items:baseline;
     justify-content:center;
-    gap:50px;
+    gap:clamp(14px, 6vw, 50px);
     flex-wrap:wrap;
     margin:0 0 32px;
   }
@@ -127,8 +132,8 @@
   /* ---------- 日期 + 场地 / 配图 两栏 ---------- */
   .info-row{
     display:flex;
-    gap:34px;
-    align-items:stretch;
+    gap:clamp(14px, 4vw, 28px);
+    align-items:center;
     text-align:left;
     margin:0 0 40px;
   }
@@ -138,7 +143,7 @@
     flex-direction:column;
     justify-content:center;
     gap:22px;
-    transform:translateX(34px);
+    min-width:0;   /* 允许文字列收缩，避免把图片挤出去 */
   }
   .info-block .date-text{
     font-size:17.5px;
@@ -153,45 +158,56 @@
     color:var(--value-brown);
   }
   .venue-label{ font-size:17.5px; }
-  .photo-side{ flex:0 0 40%; aspect-ratio:3/4; font-size:18px; letter-spacing:3px; transform:translateX(-34px);}
+  .photo-side{ flex:0 0 38%; aspect-ratio:3/4; font-size:18px; letter-spacing:3px; }
 
   /* ---------- 流程时间轴 ---------- */
   .timeline{
     display:flex;
+    align-items:flex-start;
     justify-content:space-between;
-    gap:6px;
-    margin:0 0 30px;
+    gap:clamp(2px, 1vw, 6px);
+    margin:0 0 var(--gap-section);
   }
-  .timeline .item{ flex:1; }
+  .timeline .item{ flex:1; min-width:0; }
+
+  /* 流程图标：简笔线描，宽度约一到两个汉字 */
+  .tl-icon{
+    display:block;
+    width:26px;
+    height:26px;
+    margin:0 auto 7px;
+    color:#740000;
+  }
   .timeline-text{
-    font-size:15px;
+    font-size:clamp(12px, 3.3vw, 15px);
     font-weight:700;
     color:#740000;
     line-height:var(--lh-a);
     white-space:nowrap;
   }
   .timeline-sep{
-    align-self:center;
+    align-self:flex-start;
+    margin-top:32px;   /* 与图标下方的首行文字对齐 */
     color:#740000;
-    font-size:15px;
+    font-size:clamp(12px, 3.3vw, 15px);
     font-weight:600;
-    padding:0 2px;
+    padding:0;
   }
 
   /* ---------- 三图排 ---------- */
   .gallery{
     display:flex;
-    gap:10px;
-    margin:0 0 44px;
+    gap:clamp(6px, 2vw, 10px);
+    margin:0 0 var(--gap-section);
   }
   .gallery .photo-box{ flex:1; aspect-ratio:3/4; font-size:16px; letter-spacing:2px;}
 
   /* ---------- 地图区 ---------- */
   .map-row{
     display:flex;
-    gap:14px;
+    gap:clamp(10px, 3vw, 14px);
     justify-content:center;
-    margin:0 0 34px;
+    margin:0 0 var(--gap-section);
   }
   .map-card{
     display:block;
@@ -200,7 +216,7 @@
   }
   .map-card .map-bg{
     width:100%;
-    height:115px;
+    aspect-ratio:16/9;
     background-size:cover;
     background-position:center;
   }
@@ -237,15 +253,15 @@
     font-weight:500;
     color:var(--value-brown);
     line-height:var(--lh-a);
-    margin:0 0 38px;
+    margin:0 0 4px;
   }
 
   .color-swatches{
     display:flex;
     justify-content:center;
     align-items:center;
-    gap:14px;
-    margin:14px 0 38px;
+    gap:clamp(9px, 3vw, 14px);
+    margin:14px 0 var(--gap-section);
   }
   .color-swatches .swatch{
     width:22px;
@@ -316,6 +332,25 @@
     0%,100%{ transform:scaleY(1); }
     50%{ transform:scaleY(0.55); }
   }
+
+  /* ---------- 手机窄屏适配 ---------- */
+  @media (max-width:430px){
+    :root{ --gap-section:46px; }
+    .page{ padding:28px 16px 48px; }
+    .hint-top{ margin:0 0 28px; }
+    .quote{ margin:0 0 34px; }
+    .info-row{ margin:0 0 32px; }
+    .tl-icon{ width:22px; height:22px; margin:0 auto 5px; }
+    .timeline-sep{ margin-top:26px; }
+    .music-toggle{ width:38px; height:38px; top:10px; right:10px; }
+  }
+
+  /* 超窄屏（iPhone SE 等）：隐藏分隔破折号，腾出的宽度刚好够四项各占一行 */
+  @media (max-width:360px){
+    .timeline-sep{ display:none; }
+    .timeline{ gap:4px; }
+    .photo-hero{ width:min(220px, 62vw); }
+  }
 </style>
 </head>
 <body>
@@ -358,13 +393,13 @@
   </div>
 
   <div class="timeline">
-    <div class="item"><p class="timeline-text">迎宾 游园会<br>10:20</p></div>
+    <div class="item"><svg class="tl-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2.6" y="7" width="18.8" height="12.4" rx="2.2"/><path d="M8.6 7l1.3-2.4h4.2L15.4 7"/><circle cx="12" cy="13.3" r="3.5"/><circle cx="18.1" cy="10.2" r="0.55" fill="currentColor" stroke="none"/></svg><p class="timeline-text">迎宾 游园会<br>10:20</p></div>
     <span class="timeline-sep">—</span>
-    <div class="item"><p class="timeline-text">草坪仪式<br>11:30</p></div>
+    <div class="item"><svg class="tl-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="8.9" cy="14.6" r="4.9"/><circle cx="15.1" cy="14.6" r="4.9"/><path d="M15.1 4.6l2.1 2.6-2.1 2.6-2.1-2.6z"/></svg><p class="timeline-text">草坪仪式<br>11:30</p></div>
     <span class="timeline-sep">—</span>
-    <div class="item"><p class="timeline-text">户外烧烤<br>12:00</p></div>
+    <div class="item"><svg class="tl-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2.4v19.2"/><rect x="7.4" y="4.9" width="9.2" height="4.3" rx="1.5"/><rect x="7.4" y="10.2" width="9.2" height="4.3" rx="1.5"/><rect x="7.4" y="15.5" width="9.2" height="4.3" rx="1.5"/></svg><p class="timeline-text">户外烧烤<br>12:00</p></div>
     <span class="timeline-sep">—</span>
-    <div class="item"><p class="timeline-text">答谢喜宴<br>16:58</p></div>
+    <div class="item"><svg class="tl-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7.2 3.6h9.6l-.95 6.3a3.85 3.85 0 0 1-7.7 0z"/><path d="M12 13.75V19.1"/><path d="M8.4 19.5h7.2"/></svg><p class="timeline-text">答谢喜宴<br>16:58</p></div>
   </div>
 
   <div class="gallery">
@@ -408,19 +443,9 @@
 </div>
 
 <script>
-  (function(){
-    var DESIGN_WIDTH = 520; // 对应 .page 的固定设计宽度
-    var page = document.querySelector('.page');
-    function fit(){
-      var vw = document.documentElement.clientWidth || window.innerWidth;
-      var scale = vw / DESIGN_WIDTH;
-      page.style.zoom = scale;
-    }
-    fit();
-    window.addEventListener('resize', fit);
-    window.addEventListener('orientationchange', fit);
-  })();
-
+  /* 说明：此处原有一段把 .page 按 视口宽/520 做 zoom 缩放的脚本，已移除。
+     zoom 是非标准属性，Safari / Chrome / iOS WebKit 对它的字号取整与换行处理各不相同，
+     正是各设备显示不一致、且照片压住文字的根源。现改为纯 CSS 响应式布局。 */
   (function(){
     var audio = document.getElementById('bgmAudio');
     var toggle = document.getElementById('musicToggle');
