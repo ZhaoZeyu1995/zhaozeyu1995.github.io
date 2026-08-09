@@ -314,6 +314,7 @@
     margin:0 0 20px;
   }
   .qr{
+    display:block;   /* 二维码可点击，<a> 需为块级才能保持原尺寸 */
     width:70px;
     height:70px;
     margin:0 auto;
@@ -456,8 +457,8 @@
 
   <div class="divider"><span class="line"></span><span class="dot"></span><span class="line"></span></div>
 
-  <p class="rsvp-title">请在9月12日前识别二维码填写您的宾客信息</p>
-  <div class="qr"><img src="qr.dining.png" alt="宾客信息问卷二维码"></div>
+  <p class="rsvp-title">请在9月12日前扫描或点击下方二维码填写您的宾客信息</p>
+  <a class="qr" href="https://wj.qq.com/s2/27542956/kdj6/" target="_blank" rel="noopener"><img src="qr.dining.png" alt="宾客信息问卷二维码"></a>
 
   <div class="closing">
     <p class="sub-title">写在最后</p>
